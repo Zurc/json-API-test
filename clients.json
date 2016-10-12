@@ -1,4 +1,4 @@
-{
+[{
       "id": 1,
       "name": "client 1",
       "parent": "Open Energi",
@@ -13,6 +13,6 @@
       "name": "client 3",
       "parent": "Open Energi",
       "url": "./site.json"
-    }
+    }]
 
 
