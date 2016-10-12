@@ -1,0 +1,18 @@
+{
+      "id": 1,
+      "name": "client 1",
+      "parent": "Open Energi",
+      "url": "./site.json"
+    }, {
+      "id": 2,
+      "name": "client 2",
+      "parent": "Open Energi",
+      "url": "./site.json"
+    }, {
+      "id": 3,
+      "name": "client 3",
+      "parent": "Open Energi",
+      "url": "./site.json"
+    }
+
+
