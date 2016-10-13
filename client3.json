@@ -1,0 +1,17 @@
+
+[{
+	"id": 1,
+	"name": "site 1",
+	"parent": "client 3",
+	"children_url": "./site.json"
+}, {
+	"id": 2,
+	"name": "site 2",
+	"parent": "client 3",
+	"children_url": "./site.json"
+}, {
+	"id": 3,
+	"name": "site 3",
+	"parent": "client 3",
+	"children_url": "./site.json"
+}]
