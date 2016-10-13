@@ -2,17 +2,17 @@
 	"id": 1,
 	"name": "client 1",
 	"parent": "Open Energi",
-	"children_url": "https://raw.githubusercontent.com/Zurc/json-API-test/master/client1.json"
+	"children_url": "client1"
 }, {
 	"id": 2,
 	"name": "client 2",
 	"parent": "Open Energi",
-	"children_url": "https://raw.githubusercontent.com/Zurc/json-API-test/master/client2.json"
+	"children_url": "client2"
 }, {
 	"id": 3,
 	"name": "client 3",
 	"parent": "Open Energi",
-	"children_url": "https://raw.githubusercontent.com/Zurc/json-API-test/master/client1.json"
+	"children_url": "client3"
 }]
 
 
