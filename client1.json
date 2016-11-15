@@ -1,25 +1,16 @@
-HTTP 200 OK
-Allow: GET, HEAD, OPTIONS
-Content-Type: application/json
-Vary: Accept
-
-{
-  "data": [
-    {
+[{
 	"id": 1,
 	"name": "site 1",
 	"parent": "client 1",
 	"children_url": "./site.json"
-    }, {
+}, {
 	"id": 2,
 	"name": "site 2",
 	"parent": "client 1",
 	"children_url": "./site.json"
-    }, {
+}, {
 	"id": 3,
 	"name": "site 3",
 	"parent": "client 1",
 	"children_url": "./site.json"
-    }
-  ]
-}
+}]
